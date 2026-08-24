@@ -19,7 +19,7 @@
 
 ### About
 
-I'm an AI Product Engineer & Full-Stack AI Engineer — I ship agentic systems end to end, from RAG pipelines and production-grade agent orchestration to the interfaces that put them in front of real users. I enjoy the whole surface area: clean, responsive UIs, the APIs and services behind them, and wiring intelligent models into products that solve real problems.
+I'm an AI Product Engineer & Full-Stack Engineer — I ship agentic systems end to end, from RAG pipelines and production-grade agent orchestration to the interfaces that put them in front of real users. I enjoy the whole surface area: clean, responsive UIs, the APIs and services behind them, and wiring intelligent models into products that solve real problems.
 
 - **AI Engineering** — Agent orchestration, RAG, MCP, eval-driven development
 - **Full-Stack** — End-to-end product engineering, UI to database
