@@ -1,17 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,100:BAE6FD&height=200&section=header&text=Silas%20Okanlawon&fontSize=45&fontColor=0C4A6E&animation=fadeIn&fontAlignY=35&desc=AI%20Product%20Engineer%20%7C%20Full-Stack%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,100:BAE6FD&height=200&section=header&text=Silas%20Okanlawon&fontSize=45&fontColor=0C4A6E&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Product%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Shipping+agentic+AI+products+end-to-end;RAG+pipelines+%2B+type-safe+agent+orchestration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Full-stack+product+engineering+end-to-end;Agentic+systems%2C+RAG%2C+and+type-safe+orchestration)](https://git.io/typing-svg)
 
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-okanlawonsilas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okanlawonsilas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Silas%20Okanlawon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-okanlawon-897491367)
 [![X](https://img.shields.io/badge/X-%40sighlars-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sighlars)
-[![GitHub](https://img.shields.io/badge/GitHub-CyberTycoon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberTycoon)
 
 </div>
 
@@ -19,12 +18,12 @@
 
 ### About
 
-I'm an AI Product Engineer & Full-Stack Engineer — I ship agentic systems end to end, from RAG pipelines and production-grade agent orchestration to the interfaces that put them in front of real users. I enjoy the whole surface area: clean, responsive UIs, the APIs and services behind them, and wiring intelligent models into products that solve real problems.
+I'm a Full-Stack Software Engineer and AI Product Engineer. I ship complete products end to end, from database schema and type-safe APIs to the interfaces that put them in front of users. My recent work centers on agentic AI systems, but the foundation is solid software engineering: clean architecture, systems that survive real traffic, and the discipline to own the full surface area.
 
-- **AI Engineering** — Agent orchestration, RAG, MCP, eval-driven development
-- **Full-Stack** — End-to-end product engineering, UI to database
-- **Systems** — Type-safe APIs, microservices, real-time data
-- **Building** — OpenLotus, solo
+- **Full-Stack Engineering** - End-to-end product delivery, UI to database, monoliths to microservices
+- **AI Systems** - Agent orchestration, RAG pipelines, MCP integrations, eval-driven development
+- **Backend** - Type-safe APIs, real-time data, caching strategies, service architecture
+- **Frontend** - Responsive interfaces, design systems, performance optimization
 
 <br/>
 
@@ -75,19 +74,29 @@ I'm an AI Product Engineer & Full-Stack Engineer — I ship agentic systems end 
 <img align="left" width="4" height="70" src="https://singlecolorimage.com/get/0284C7/4x70"/>
 
 **OpenLotus**
-Development intelligence platform for founders. Pairs directly to your live environment via CLI and MCP, turning files, TODOs, and shipped work into a living Progress Map — Idea → Plan → Execution → Impact.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0284C7?style=flat-square) ![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-0284C7?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-0284C7?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-0284C7?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-0284C7?style=flat-square)
+<img src="/openlotus_hero.png" width="450" style="border-radius: 8px;" alt="OpenLotus hero"/>
+
+Development intelligence platform for founders. Pairs to your live environment via CLI and MCP - no repo permissions required. Turns files, TODOs, and shipped work into a living Progress Map, Dashboard, and Agent Workspace from one ground truth. Includes the vibe-to-ship masterclass for graph engineering and agent loop design.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0284C7?style=flat-square) ![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-0284C7?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-0284C7?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-0284C7?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-0284C7?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0284C7?style=flat-square)
+
+[![View Live](https://img.shields.io/badge/View%20Live-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://openlotus.io)
 
 <br clear="left"/>
 <br/>
 
 <img align="left" width="4" height="70" src="https://singlecolorimage.com/get/0284C7/4x70"/>
 
-**Hand Tracking AI**
-Real-time computer vision app using Python, OpenCV, and MediaPipe — tracks hand landmarks, recognizes gestures, counts fingers, and enables air drawing with the index finger, with gesture-based controls, FPS tracking, and screenshots.
+**Newtools**
 
-![Python](https://img.shields.io/badge/Python-0284C7?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-0284C7?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0284C7?style=flat-square)
+<img src="/newtools_hero.png" width="450" style="border-radius: 8px;" alt="Newtools hero"/>
+
+Software discovery and comparison platform. 850+ tools across 33 categories, with AI-assisted research, side-by-side comparison, and transparent labeling of paid placements. Free product submissions get permanent SEO-ready profiles. Built to cut through sponsored noise and give buyers decision-ready data.
+
+![Next.js](https://img.shields.io/badge/Next.js-0284C7?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-0284C7?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-0284C7?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0284C7?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-0284C7?style=flat-square)
+
+[![View Live](https://img.shields.io/badge/View%20Live-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://newtools.io)
 
 <br clear="left"/>
 <br/>
@@ -95,9 +104,44 @@ Real-time computer vision app using Python, OpenCV, and MediaPipe — tracks han
 <img align="left" width="4" height="70" src="https://singlecolorimage.com/get/0284C7/4x70"/>
 
 **Pedestal**
-FastAPI CLI scaffolding tool for generating production-ready FastAPI projects — auth, Redis caching, DB integration, and structured architecture out of the box.
+
+<img src="/pedestal_hero.png" width="450" style="border-radius: 8px;" alt="Pedestal hero"/>
+
+FastAPI CLI scaffolding tool for generating production-ready FastAPI projects - auth, Redis caching, DB integration, and structured architecture out of the box.
 
 ![Python](https://img.shields.io/badge/Python-0284C7?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-0284C7?style=flat-square) ![Typer](https://img.shields.io/badge/Typer-0284C7?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0284C7?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-0284C7?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-0284C7?style=flat-square)
+
+[![View Live](https://img.shields.io/badge/View%20Live-0284C7?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/pedestal)
+
+<br clear="left"/>
+<br/>
+
+<img align="left" width="4" height="70" src="https://singlecolorimage.com/get/0284C7/4x70"/>
+
+**Teniam**
+
+<img src="/teniam_hero.png" width="450" style="border-radius: 8px;" alt="Teniam hero"/>
+
+Multi-vendor marketplace for curated workspace essentials and premium creator gear. End-to-end e-commerce ecosystem with vendor dashboards, individual storefronts, admin infrastructure, payment processing, inventory management, and search. Handles multiple vendors, product categories, and order fulfillment at scale.
+
+![Next.js](https://img.shields.io/badge/Next.js-0284C7?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-0284C7?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0284C7?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-0284C7?style=flat-square) ![Stripe](https://img.shields.io/badge/Stripe-0284C7?style=flat-square) ![Algolia](https://img.shields.io/badge/Algolia-0284C7?style=flat-square)
+
+[![View Live](https://img.shields.io/badge/View%20Live-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://teniam.com)
+
+<br clear="left"/>
+<br/>
+
+<img align="left" width="4" height="70" src="https://singlecolorimage.com/get/0284C7/4x70"/>
+
+**MyResumeAI**
+
+<img src="/myresumeai_hero.png" width="450" style="border-radius: 8px;" alt="MyResumeAI hero"/>
+
+Resume analysis platform delivering rule-based evaluation with explainable scoring.
+
+![Next.js 15](https://img.shields.io/badge/Next.js_15-0284C7?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-0284C7?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0284C7?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-0284C7?style=flat-square)
+
+[![View Live](https://img.shields.io/badge/View%20Live-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://myresume-iq.vercel.app)
 
 <br clear="left"/>
 <br/>
@@ -105,6 +149,7 @@ FastAPI CLI scaffolding tool for generating production-ready FastAPI projects �
 <img align="left" width="4" height="70" src="https://singlecolorimage.com/get/0284C7/4x70"/>
 
 **Quira AI**
+
 AI-powered content generation platform supporting text and image generation through customizable templates.
 
 ![Next.js](https://img.shields.io/badge/Next.js-0284C7?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-0284C7?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-0284C7?style=flat-square) ![LLM APIs](https://img.shields.io/badge/LLM_APIs-0284C7?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0284C7?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-0284C7?style=flat-square)
@@ -114,43 +159,27 @@ AI-powered content generation platform supporting text and image generation thro
 
 <img align="left" width="4" height="70" src="https://singlecolorimage.com/get/0284C7/4x70"/>
 
-**Multi-Vendor Marketplace**
-Scalable e-commerce ecosystem with vendor dashboards, storefronts, and admin infrastructure.
+**Hand Tracking AI**
 
-![Next.js](https://img.shields.io/badge/Next.js-0284C7?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-0284C7?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0284C7?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-0284C7?style=flat-square) ![Stripe](https://img.shields.io/badge/Stripe-0284C7?style=flat-square) ![Algolia](https://img.shields.io/badge/Algolia-0284C7?style=flat-square)
+Real-time computer vision app using Python, OpenCV, and MediaPipe - tracks hand landmarks, recognizes gestures, counts fingers, and enables air drawing with the index finger, with gesture-based controls, FPS tracking, and screenshots.
 
-<br clear="left"/>
-<br/>
-
-<img align="left" width="4" height="70" src="https://singlecolorimage.com/get/0284C7/4x70"/>
-
-**MyResumeAI**
-Resume analysis platform delivering rule-based evaluation with explainable scoring.
-
-![Next.js 15](https://img.shields.io/badge/Next.js_15-0284C7?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-0284C7?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0284C7?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-0284C7?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0284C7?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-0284C7?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0284C7?style=flat-square)
 
 <br clear="left"/>
 
 <br/>
 
-### Activity
+### Languages
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CyberTycoon&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0284C7&icon_color=0284C7&text_color=334155"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberTycoon&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0284C7&text_color=334155"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberTycoon&theme=default&hide_border=true&background=FFFFFF&stroke=0284C7&ring=0284C7&fire=0284C7&currStreakLabel=0284C7"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CyberTycoon&theme=minimal&hide_border=true&bg_color=FFFFFF&color=0284C7&line=0284C7&point=0C4A6E"/>
+<img src="/languages.png" width="450" style="border-radius: 8px;" alt="Language distribution across repositories"/>
 
 </div>
 
 <br/>
+
+### Activity
 
 <div align="center">
   <a href="https://commit-history.com/CyberTycoon">
