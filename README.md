@@ -173,7 +173,8 @@ Real-time computer vision app using Python, OpenCV, and MediaPipe - tracks hand 
 
 <div align="center">
 
-<img src="/languages.png" width="450" style="border-radius: 8px;" alt="Language distribution across repositories"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberTycoon&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberTycoon&theme=tokyonight" height="180" />
 
 </div>
 
