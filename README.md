@@ -148,6 +148,19 @@ Resume analysis platform delivering rule-based evaluation with explainable scori
 
 <img align="left" width="4" height="70" src="https://singlecolorimage.com/get/0284C7/4x70"/>
 
+**vibe-to-ship**
+
+Productionized graph engineering for everyday vibe coders — a drop-in agent skill (Claude Code + opencode) that designs how a hundred jobs get done, then verifies they shipped. Optional OpenLotus memory superpower.
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-0284C7?style=flat-square) ![opencode](https://img.shields.io/badge/opencode-0284C7?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-0284C7?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0284C7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sighlars/vibe-to-ship)
+
+<br clear="left"/>
+<br/>
+
+<img align="left" width="4" height="70" src="https://singlecolorimage.com/get/0284C7/4x70"/>
+
 **Quira AI**
 
 AI-powered content generation platform supporting text and image generation through customizable templates.
@@ -185,7 +198,7 @@ Real-time computer vision app using Python, OpenCV, and MediaPipe - tracks hand 
 <div align="center">
   <a href="https://commit-history.com/CyberTycoon">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/CyberTycoon?theme=dark" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/sighlars?theme=dark" />
       <img alt="CyberTycoon's commit history" src="https://commit-history.com/embed/CyberTycoon" width="100%" />
     </picture>
   </a>
