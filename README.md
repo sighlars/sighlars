@@ -196,10 +196,10 @@ Real-time computer vision app using Python, OpenCV, and MediaPipe - tracks hand 
 ### Activity
 
 <div align="center">
-  <a href="https://commit-history.com/CyberTycoon">
+  <a href="https://commit-history.com/sighlars">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/sighlars?theme=dark" />
-      <img alt="CyberTycoon's commit history" src="https://commit-history.com/embed/CyberTycoon" width="100%" />
+      <img alt="Sighlars's commit history" src="https://commit-history.com/embed/sighlars" width="100%" />
     </picture>
   </a>
 </div>
