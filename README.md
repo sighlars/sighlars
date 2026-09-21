@@ -159,12 +159,7 @@ Productionized graph engineering for everyday vibe coders — a drop-in agent sk
 <br clear="left"/>
 <br/>
 
-<img align="left" width="4" height="70" src="https://singlecolorimage.com/get/0284C7/4x70"/>
 
-
-<br clear="left"/>
-
-<br/>
 
 ### Languages
 
