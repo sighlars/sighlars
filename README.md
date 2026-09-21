@@ -161,22 +161,6 @@ Productionized graph engineering for everyday vibe coders — a drop-in agent sk
 
 <img align="left" width="4" height="70" src="https://singlecolorimage.com/get/0284C7/4x70"/>
 
-**Quira AI**
-
-AI-powered content generation platform supporting text and image generation through customizable templates.
-
-![Next.js](https://img.shields.io/badge/Next.js-0284C7?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-0284C7?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-0284C7?style=flat-square) ![LLM APIs](https://img.shields.io/badge/LLM_APIs-0284C7?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0284C7?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-0284C7?style=flat-square)
-
-<br clear="left"/>
-<br/>
-
-<img align="left" width="4" height="70" src="https://singlecolorimage.com/get/0284C7/4x70"/>
-
-**Hand Tracking AI**
-
-Real-time computer vision app using Python, OpenCV, and MediaPipe - tracks hand landmarks, recognizes gestures, counts fingers, and enables air drawing with the index finger, with gesture-based controls, FPS tracking, and screenshots.
-
-![Python](https://img.shields.io/badge/Python-0284C7?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-0284C7?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0284C7?style=flat-square)
 
 <br clear="left"/>
 
