@@ -75,9 +75,9 @@ I'm a Full-Stack Software Engineer and AI Product Engineer. I ship complete prod
 
 **OpenLotus**
 
-<img src="/openlotus_hero.png" width="450" style="border-radius: 8px;" alt="OpenLotus hero"/>
+<img src="/openlotus_hero.jpg" width="450" style="border-radius: 8px;" alt="OpenLotus hero"/>
 
-Development intelligence platform for founders. Pairs to your live environment via CLI and MCP - no repo permissions required. Turns files, TODOs, and shipped work into a living Progress Map, Dashboard, and Agent Workspace from one ground truth. Includes the vibe-to-ship masterclass for graph engineering and agent loop design.
+Independent Control Layer for Autonomous Development. Control layer maintaining intent, state, decisions, and drift across agents so switching harnesses never loses context; one pairing command; Progress Map, Dashboard, and Agent Workspace on the same ground truth over MCP with zero repo permissions
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0284C7?style=flat-square) ![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-0284C7?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-0284C7?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-0284C7?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-0284C7?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0284C7?style=flat-square)
 
